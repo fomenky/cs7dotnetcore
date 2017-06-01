@@ -1,0 +1,5 @@
+/Users/dev/Code/chapter02/ch02_Basics/ch02_Basics/bin/Debug/ch02_Basics.exe
+/Users/dev/Code/chapter02/ch02_Basics/ch02_Basics/bin/Debug/ch02_Basics.pdb
+/Users/dev/Code/chapter02/ch02_Basics/ch02_Basics/obj/x86/Debug/ch02_Basics.csproj.CoreCompileInputs.cache
+/Users/dev/Code/chapter02/ch02_Basics/ch02_Basics/obj/x86/Debug/ch02_Basics.exe
+/Users/dev/Code/chapter02/ch02_Basics/ch02_Basics/obj/x86/Debug/ch02_Basics.pdb
