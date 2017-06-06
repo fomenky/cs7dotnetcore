@@ -8,21 +8,21 @@ namespace ch02_Basics
 	{
 		public static void Main(string[] args)
 		{
-			// loop through the assemblies that this application references 
+			// loop through the assemblies that this application references
 			foreach (var r in Assembly.GetEntryAssembly()
 			  .GetReferencedAssemblies())
 			{
-				// load the assembly so we can read its details 
+				// load the assembly so we can read its details
 				var a = Assembly.Load(new AssemblyName(r.FullName));
-				// declare a variable to count the total number of methods 
+				// declare a variable to count the total number of methods
 				int methodCount = 0;
-				// loop through all the types in the assembly 
+				// loop through all the types in the assembly
 				foreach (var t in a.DefinedTypes)
 				{
-					// add up the counts of methods 
+					// add up the counts of methods
 					methodCount += t.GetMethods().Count();
 				}
-				// output the count of types and their methods 
+				// output the count of types and their methods
 				Console.WriteLine($"{a.DefinedTypes.Count():N0} types " +
 				  $"with {methodCount:N0} methods in {r.Name} assembly.");
 			}
@@ -30,7 +30,7 @@ namespace ch02_Basics
 			//Making a value type nullable
 			Console.WriteLine($"{default(int)}");   // will return 0
 			Console.WriteLine($"{default(bool)}");  // will return false
-			Console.WriteLine($"{default(DateTime)}"); // 1/01/0001 00:00:00 
+			Console.WriteLine($"{default(DateTime)}"); // 1/01/0001 00:00:00
 
 			//Allowing a value type to be null
 			int ICannotBeNull = 4;
@@ -47,7 +47,7 @@ namespace ch02_Basics
 
 			//Get value from nullable variable
 			string authorName = null;
-			// if authorName is null, instead of throwing an exception, 
+			// if authorName is null, instead of throwing an exception,
 			// null is returned
 			int? howManyLetters = authorName?.Length;
 			Console.WriteLine(howManyLetters);
@@ -55,7 +55,6 @@ namespace ch02_Basics
 			//Null-coalescing operator (??) -- Assign Either OR based on value
 			var result = howManyLetters ?? 3;
 			Console.WriteLine(result);  // result will be three IF howManyLetters is null
-
 
 			//****** | Arrays | ALWAYS OF FIXED SIZE********
 			//Storing multiple values in an array
@@ -67,7 +66,7 @@ namespace ch02_Basics
 			names[3] = "Tom";
 			for (int i = 0; i < names.Length; i++)
 			{
-				Console.WriteLine(names[i]); // read the item at this index 
+				Console.WriteLine(names[i]); // read the item at this index
 			}
 
 			//Getting Input In a Console App
