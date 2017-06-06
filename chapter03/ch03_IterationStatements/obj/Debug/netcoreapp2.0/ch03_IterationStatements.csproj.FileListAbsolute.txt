@@ -1,0 +1,9 @@
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter03/ch03_IterationStatements/bin/Debug/netcoreapp2.0/ch03_IterationStatements.deps.json
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter03/ch03_IterationStatements/bin/Debug/netcoreapp2.0/ch03_IterationStatements.runtimeconfig.json
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter03/ch03_IterationStatements/bin/Debug/netcoreapp2.0/ch03_IterationStatements.runtimeconfig.dev.json
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter03/ch03_IterationStatements/bin/Debug/netcoreapp2.0/ch03_IterationStatements.dll
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter03/ch03_IterationStatements/bin/Debug/netcoreapp2.0/ch03_IterationStatements.pdb
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter03/ch03_IterationStatements/obj/Debug/netcoreapp2.0/ch03_IterationStatements.csproj.CoreCompileInputs.cache
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter03/ch03_IterationStatements/obj/Debug/netcoreapp2.0/ch03_IterationStatements.AssemblyInfo.cs
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter03/ch03_IterationStatements/obj/Debug/netcoreapp2.0/ch03_IterationStatements.dll
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter03/ch03_IterationStatements/obj/Debug/netcoreapp2.0/ch03_IterationStatements.pdb
