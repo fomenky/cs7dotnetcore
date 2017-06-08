@@ -6,3 +6,4 @@
 /home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter03/ch03_SelectionStatements/obj/Debug/netcoreapp1.1/ch03_SelectionStatements.AssemblyInfo.cs
 /home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter03/ch03_SelectionStatements/obj/Debug/netcoreapp1.1/ch03_SelectionStatements.dll
 /home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter03/ch03_SelectionStatements/obj/Debug/netcoreapp1.1/ch03_SelectionStatements.pdb
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter03/ch03_SelectionStatements/obj/Debug/netcoreapp1.1/ch03_SelectionStatements.csproj.CoreCompileInputs.cache

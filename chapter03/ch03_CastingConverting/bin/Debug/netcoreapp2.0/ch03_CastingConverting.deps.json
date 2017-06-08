@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.0": {
-      "ch03_IterationStatements/1.0.0": {
+      "ch03_CastingConverting/1.0.0": {
         "runtime": {
-          "ch03_IterationStatements.dll": {}
+          "ch03_CastingConverting.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "ch03_IterationStatements/1.0.0": {
+    "ch03_CastingConverting/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

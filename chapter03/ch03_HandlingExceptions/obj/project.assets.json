@@ -572,10 +572,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter03/ch03_CastingConverting/ch03_CastingConverting.csproj",
-      "projectName": "ch03_CastingConverting",
-      "projectPath": "/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter03/ch03_CastingConverting/ch03_CastingConverting.csproj",
-      "outputPath": "/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter03/ch03_CastingConverting/obj/",
+      "projectUniqueName": "/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter03/ch03_HandlingExceptions/ch03_HandlingExceptions.csproj",
+      "projectName": "ch03_HandlingExceptions",
+      "projectPath": "/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter03/ch03_HandlingExceptions/ch03_HandlingExceptions.csproj",
+      "outputPath": "/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter03/ch03_HandlingExceptions/obj/",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp2.0"

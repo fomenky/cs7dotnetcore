@@ -1,0 +1,9 @@
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter03/ch03_CastingConverting/bin/Debug/netcoreapp2.0/ch03_CastingConverting.deps.json
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter03/ch03_CastingConverting/bin/Debug/netcoreapp2.0/ch03_CastingConverting.runtimeconfig.json
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter03/ch03_CastingConverting/bin/Debug/netcoreapp2.0/ch03_CastingConverting.runtimeconfig.dev.json
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter03/ch03_CastingConverting/obj/Debug/netcoreapp2.0/ch03_CastingConverting.csproj.CoreCompileInputs.cache
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter03/ch03_CastingConverting/obj/Debug/netcoreapp2.0/ch03_CastingConverting.AssemblyInfo.cs
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter03/ch03_CastingConverting/bin/Debug/netcoreapp2.0/ch03_CastingConverting.dll
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter03/ch03_CastingConverting/bin/Debug/netcoreapp2.0/ch03_CastingConverting.pdb
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter03/ch03_CastingConverting/obj/Debug/netcoreapp2.0/ch03_CastingConverting.dll
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter03/ch03_CastingConverting/obj/Debug/netcoreapp2.0/ch03_CastingConverting.pdb

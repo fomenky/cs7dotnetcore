@@ -2,7 +2,7 @@ using System;
 using static System.Console;
 using static System.Convert;
 
-namespace ch03_IterationStatements
+namespace ch03_CastingConverting
 {
     class Program
     {
@@ -79,7 +79,37 @@ namespace ch03_IterationStatements
           }
           else
           {
-            WriteLine("I could not parse the input.");
+            WriteLine("I could not parse the input.\n");
+          }
+
+          // Checking for overflows
+          // The Checked Statement - throws an exception when an overflow occures
+          Console.WriteLine("Non Checked int");
+          int x = int.MaxValue - 1;
+          Console.WriteLine(x);
+          x++;
+          Console.WriteLine(x);
+          x++;
+          Console.WriteLine(x);
+          x++;
+          Console.WriteLine(x);
+
+          Console.WriteLine("Checked int\n");
+          Console.WriteLine("Handling the Exception with a try/catch block");
+          try {
+            checked {
+              int y = int.MaxValue - 1;
+              Console.WriteLine(y);
+              y++;
+              Console.WriteLine(y);
+              y++;
+              Console.WriteLine(y);
+              y++;
+              Console.WriteLine(y);
+            }
+          }
+          catch (OverflowException){
+            Console.WriteLine("The code overflowed but I caught the exception :)");
           }
 
 

@@ -3,11 +3,11 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ch03_IterationStatements")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ch03_HandlingExceptions")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Package Description")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("ch03_IterationStatements")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ch03_IterationStatements")]
+[assembly: System.Reflection.AssemblyProductAttribute("ch03_HandlingExceptions")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ch03_HandlingExceptions")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

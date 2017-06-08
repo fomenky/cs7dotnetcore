@@ -1,0 +1,9 @@
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter03/ch03_HandlingExceptions/bin/Debug/netcoreapp2.0/ch03_HandlingExceptions.deps.json
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter03/ch03_HandlingExceptions/bin/Debug/netcoreapp2.0/ch03_HandlingExceptions.runtimeconfig.json
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter03/ch03_HandlingExceptions/bin/Debug/netcoreapp2.0/ch03_HandlingExceptions.runtimeconfig.dev.json
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter03/ch03_HandlingExceptions/bin/Debug/netcoreapp2.0/ch03_HandlingExceptions.dll
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter03/ch03_HandlingExceptions/bin/Debug/netcoreapp2.0/ch03_HandlingExceptions.pdb
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter03/ch03_HandlingExceptions/obj/Debug/netcoreapp2.0/ch03_HandlingExceptions.csproj.CoreCompileInputs.cache
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter03/ch03_HandlingExceptions/obj/Debug/netcoreapp2.0/ch03_HandlingExceptions.AssemblyInfo.cs
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter03/ch03_HandlingExceptions/obj/Debug/netcoreapp2.0/ch03_HandlingExceptions.dll
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter03/ch03_HandlingExceptions/obj/Debug/netcoreapp2.0/ch03_HandlingExceptions.pdb
