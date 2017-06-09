@@ -108,11 +108,10 @@ namespace ch03_CastingConverting
               Console.WriteLine(y);
             }
           }
-          catch (OverflowException){
+          catch (OverflowException) {
             Console.WriteLine("The code overflowed but I caught the exception :)");
+            
           }
-
-
         }
     }
 }
