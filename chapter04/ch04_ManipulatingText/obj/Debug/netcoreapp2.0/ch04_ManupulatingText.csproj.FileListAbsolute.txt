@@ -1,0 +1,9 @@
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter04/ch04_ManupulatingText/bin/Debug/netcoreapp2.0/ch04_ManupulatingText.deps.json
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter04/ch04_ManupulatingText/bin/Debug/netcoreapp2.0/ch04_ManupulatingText.runtimeconfig.json
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter04/ch04_ManupulatingText/bin/Debug/netcoreapp2.0/ch04_ManupulatingText.runtimeconfig.dev.json
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter04/ch04_ManupulatingText/bin/Debug/netcoreapp2.0/ch04_ManupulatingText.dll
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter04/ch04_ManupulatingText/bin/Debug/netcoreapp2.0/ch04_ManupulatingText.pdb
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter04/ch04_ManupulatingText/obj/Debug/netcoreapp2.0/ch04_ManupulatingText.csproj.CoreCompileInputs.cache
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter04/ch04_ManupulatingText/obj/Debug/netcoreapp2.0/ch04_ManupulatingText.AssemblyInfo.cs
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter04/ch04_ManupulatingText/obj/Debug/netcoreapp2.0/ch04_ManupulatingText.dll
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter04/ch04_ManupulatingText/obj/Debug/netcoreapp2.0/ch04_ManupulatingText.pdb
