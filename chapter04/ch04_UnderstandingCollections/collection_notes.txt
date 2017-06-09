@@ -1,0 +1,24 @@
+Collecton Categories include:
+Lists, dictionaries, stacks, queues, sets, and more advanced collections
+
+Lists   - are a good choice when you want to manually control the order of items in a collection. 
+        - Each item in a list has a unique index (or position) that is automatically assigned.
+        - Items can be any type (although they SHOULD be of the same type).
+        - items can be duplicated.
+        - Indexes are int types and start from 0, so the first item in a list is at index 0
+
+Dictionaries- are a good choice when each value (or item) has a unique subvalue (or a made-up value) that can be used as a key to quickly find the value in the collection later
+            
+Stacks  - LIFO (Last-in, First-out) - are a good choice when you want to implement the last-in, first-out (LIFO) behavior
+        _ 4th in/out 
+        _ 3rd in 
+        _ 2nd in
+        _ 1st in
+
+Queues  - FIFO (First-in, First-out) - are a good choice when you want to implement the first-in, first out (FIFO) behavior
+        _ 4th in
+        _ 3rd in 
+        _ 2nd in
+        _ 1st in/out
+
+sets    - are a good choice when you want to perform set operations between two collections
