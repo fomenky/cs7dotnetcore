@@ -1,0 +1,9 @@
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter04/ch04_RegularExpressions/bin/Debug/netcoreapp2.0/ch04_RegularExpressions.deps.json
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter04/ch04_RegularExpressions/bin/Debug/netcoreapp2.0/ch04_RegularExpressions.runtimeconfig.json
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter04/ch04_RegularExpressions/bin/Debug/netcoreapp2.0/ch04_RegularExpressions.runtimeconfig.dev.json
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter04/ch04_RegularExpressions/obj/Debug/netcoreapp2.0/ch04_RegularExpressions.csproj.CoreCompileInputs.cache
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter04/ch04_RegularExpressions/obj/Debug/netcoreapp2.0/ch04_RegularExpressions.AssemblyInfo.cs
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter04/ch04_RegularExpressions/bin/Debug/netcoreapp2.0/ch04_RegularExpressions.dll
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter04/ch04_RegularExpressions/bin/Debug/netcoreapp2.0/ch04_RegularExpressions.pdb
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter04/ch04_RegularExpressions/obj/Debug/netcoreapp2.0/ch04_RegularExpressions.dll
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter04/ch04_RegularExpressions/obj/Debug/netcoreapp2.0/ch04_RegularExpressions.pdb
