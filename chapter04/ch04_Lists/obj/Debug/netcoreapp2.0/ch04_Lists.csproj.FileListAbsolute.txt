@@ -1,0 +1,9 @@
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter04/ch04_Lists/bin/Debug/netcoreapp2.0/ch04_Lists.deps.json
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter04/ch04_Lists/bin/Debug/netcoreapp2.0/ch04_Lists.runtimeconfig.json
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter04/ch04_Lists/bin/Debug/netcoreapp2.0/ch04_Lists.runtimeconfig.dev.json
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter04/ch04_Lists/bin/Debug/netcoreapp2.0/ch04_Lists.dll
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter04/ch04_Lists/bin/Debug/netcoreapp2.0/ch04_Lists.pdb
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter04/ch04_Lists/obj/Debug/netcoreapp2.0/ch04_Lists.csproj.CoreCompileInputs.cache
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter04/ch04_Lists/obj/Debug/netcoreapp2.0/ch04_Lists.AssemblyInfo.cs
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter04/ch04_Lists/obj/Debug/netcoreapp2.0/ch04_Lists.dll
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter04/ch04_Lists/obj/Debug/netcoreapp2.0/ch04_Lists.pdb
