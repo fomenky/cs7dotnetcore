@@ -1,0 +1,9 @@
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter04/ch04_Dictionaries/bin/Debug/netcoreapp2.0/ch04_Dictionaries.deps.json
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter04/ch04_Dictionaries/bin/Debug/netcoreapp2.0/ch04_Dictionaries.runtimeconfig.json
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter04/ch04_Dictionaries/bin/Debug/netcoreapp2.0/ch04_Dictionaries.runtimeconfig.dev.json
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter04/ch04_Dictionaries/obj/Debug/netcoreapp2.0/ch04_Dictionaries.csproj.CoreCompileInputs.cache
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter04/ch04_Dictionaries/obj/Debug/netcoreapp2.0/ch04_Dictionaries.AssemblyInfo.cs
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter04/ch04_Dictionaries/bin/Debug/netcoreapp2.0/ch04_Dictionaries.dll
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter04/ch04_Dictionaries/bin/Debug/netcoreapp2.0/ch04_Dictionaries.pdb
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter04/ch04_Dictionaries/obj/Debug/netcoreapp2.0/ch04_Dictionaries.dll
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter04/ch04_Dictionaries/obj/Debug/netcoreapp2.0/ch04_Dictionaries.pdb
