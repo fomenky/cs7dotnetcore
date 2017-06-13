@@ -22,3 +22,12 @@ Queues  - FIFO (First-in, First-out) - are a good choice when you want to implem
         _ 1st in/out
 
 sets    - are a good choice when you want to perform set operations between two collections
+
+LINKS:
+.NET Core API Reference: https://docs.microsoft.com/en-us/dotnet/core/api/index
+String Class: https://docs.microsoft.com/en-us/dotnet/core/api/system.string
+Regex Class: https://docs.microsoft.com/en-us/dotnet/core/api/system.text.regularexpressions.regex
+Regular expressions in .NET: https://docs.microsoft.com/en-us/dotnet/articles/standard/base-types/regular-expressions
+Regular Expression Language - Quick Reference: https://docs.microsoft.com/en-us/dotnet/articles/standard/base-types/quick-ref
+RegExr: Learn, Build, & Test RegEx: http://regexr.com/
+Collections (C# and Visual Basic): https://docs.microsoft.com/en-us/dotnet/core/api/system.collections
