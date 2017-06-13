@@ -20,9 +20,9 @@ namespace ch04_Lists
             }
             WriteLine($"The first city is {cities[0]}.");  
             WriteLine($"The last city is {cities[cities.Count - 1]}.");
-            
+
             cities.Insert(0, "Sydney");
-            WriteLine("After inserting Sydney at index 0"); 
+            WriteLine("After inserting Sydney at index 0");
             foreach (string city in cities) 
             { 
              WriteLine($"  {city}"); 
