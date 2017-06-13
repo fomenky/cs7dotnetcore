@@ -1,0 +1,9 @@
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter04/ch04_Internationalization/bin/Debug/netcoreapp2.0/ch04_Internationalization.deps.json
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter04/ch04_Internationalization/bin/Debug/netcoreapp2.0/ch04_Internationalization.runtimeconfig.json
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter04/ch04_Internationalization/bin/Debug/netcoreapp2.0/ch04_Internationalization.runtimeconfig.dev.json
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter04/ch04_Internationalization/bin/Debug/netcoreapp2.0/ch04_Internationalization.dll
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter04/ch04_Internationalization/bin/Debug/netcoreapp2.0/ch04_Internationalization.pdb
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter04/ch04_Internationalization/obj/Debug/netcoreapp2.0/ch04_Internationalization.csproj.CoreCompileInputs.cache
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter04/ch04_Internationalization/obj/Debug/netcoreapp2.0/ch04_Internationalization.AssemblyInfo.cs
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter04/ch04_Internationalization/obj/Debug/netcoreapp2.0/ch04_Internationalization.dll
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter04/ch04_Internationalization/obj/Debug/netcoreapp2.0/ch04_Internationalization.pdb
