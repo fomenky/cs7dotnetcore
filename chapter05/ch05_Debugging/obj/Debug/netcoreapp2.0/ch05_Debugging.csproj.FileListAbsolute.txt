@@ -1,0 +1,9 @@
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter05/ch05_Debugging/bin/Debug/netcoreapp2.0/ch05_Debugging.deps.json
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter05/ch05_Debugging/bin/Debug/netcoreapp2.0/ch05_Debugging.runtimeconfig.json
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter05/ch05_Debugging/bin/Debug/netcoreapp2.0/ch05_Debugging.runtimeconfig.dev.json
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter05/ch05_Debugging/bin/Debug/netcoreapp2.0/ch05_Debugging.dll
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter05/ch05_Debugging/bin/Debug/netcoreapp2.0/ch05_Debugging.pdb
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter05/ch05_Debugging/obj/Debug/netcoreapp2.0/ch05_Debugging.csproj.CoreCompileInputs.cache
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter05/ch05_Debugging/obj/Debug/netcoreapp2.0/ch05_Debugging.AssemblyInfo.cs
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter05/ch05_Debugging/obj/Debug/netcoreapp2.0/ch05_Debugging.dll
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter05/ch05_Debugging/obj/Debug/netcoreapp2.0/ch05_Debugging.pdb
