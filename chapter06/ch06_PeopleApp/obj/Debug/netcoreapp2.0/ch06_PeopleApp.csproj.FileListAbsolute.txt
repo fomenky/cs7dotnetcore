@@ -1,0 +1,11 @@
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter06/ch06_PeopleApp/bin/Debug/netcoreapp2.0/ch06_PeopleApp.deps.json
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter06/ch06_PeopleApp/bin/Debug/netcoreapp2.0/ch06_PeopleApp.runtimeconfig.json
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter06/ch06_PeopleApp/bin/Debug/netcoreapp2.0/ch06_PeopleApp.runtimeconfig.dev.json
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter06/ch06_PeopleApp/bin/Debug/netcoreapp2.0/ch06_PeopleApp.dll
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter06/ch06_PeopleApp/bin/Debug/netcoreapp2.0/ch06_PeopleApp.pdb
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter06/ch06_PeopleApp/bin/Debug/netcoreapp2.0/ch06_PacktLibrary.dll
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter06/ch06_PeopleApp/bin/Debug/netcoreapp2.0/ch06_PacktLibrary.pdb
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter06/ch06_PeopleApp/obj/Debug/netcoreapp2.0/ch06_PeopleApp.csproj.CoreCompileInputs.cache
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter06/ch06_PeopleApp/obj/Debug/netcoreapp2.0/ch06_PeopleApp.AssemblyInfo.cs
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter06/ch06_PeopleApp/obj/Debug/netcoreapp2.0/ch06_PeopleApp.dll
+/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter06/ch06_PeopleApp/obj/Debug/netcoreapp2.0/ch06_PeopleApp.pdb
