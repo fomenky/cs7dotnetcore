@@ -31,6 +31,13 @@
               - Indexers: These are the methods that execute when you want to access data
               - Operators: These are the methods that execute when you want to apply an operator
 
+    - static field/method - is a field/method that only has one copy of itself that is shared across all instances
+
+    - const - if the value of the field is expected to never change
+
+    - Constructors  - special methods called when an instance of a class (object) is created.
+                    - They execute before any fields are set
+
 - Enum: An enum is a very effiecient way of storing one or more choices because, internally, it uses int values in combination with a lookup table of string descriptions.
 
 
