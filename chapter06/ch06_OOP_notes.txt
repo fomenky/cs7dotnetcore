@@ -1,0 +1,47 @@
+- OOP -
+
+- Encapsulation: is the combination of the data and actions that are related to an object.
+
+- Composition: is about what an object is made of.
+
+- Aggregation: is about what is related to an object.
+
+- Inheritance: is about reusing code by having a subclass derive from or a super class.
+
+- Abstraction: is about capturing the core idea of an object and ignoring the details or specifics.
+
+- Polymorphism: is about allowing a derived class to override an inherited action to provide custom behavior
+
+- Access Modifiers: keywords that allows/denies code access to a class/method/property 
+    - public - Member is accessible everywhere. if not applied then the class will only be accessible within the assembly that defined it.
+    - private - Member is accessible inside the type only. This is the default 
+    - internal - Member is accessible inside the type and any type in the same assembly
+    - protected - Member is accessible inside the type and any type that inherits from the type
+    - internal protected - Member is accessible inside the type, any type in the assembly and any type that inherits from the type
+
+- Class Members: Include Fields, Methods or specialized versions of BOTH
+    - Fields - Are used to store data  
+        Ex:  - Constants: The data in this field never changes
+             - Read-only fields: The data in this field cannot change after the class is instantiated
+             - Events: This refers to methods that you want to call automatically when something happens, such as clicking on a button
+
+    - Methods - Are used to execute statements.
+        Ex    - Constructors: These are the methods that execute when you use the new keyword to allocate memory and instantiate a class
+              - Properties: These are the methods that execute when you want to access data
+              - Indexers: These are the methods that execute when you want to access data
+              - Operators: These are the methods that execute when you want to apply an operator
+
+- Enum: An enum is a very effiecient way of storing one or more choices because, internally, it uses int values in combination with a lookup table of string descriptions.
+
+
+
+
+
+
+
+
+// Creating a .NET classlib //
+- Run:
+$ dotnet new classlib
+
+ 
