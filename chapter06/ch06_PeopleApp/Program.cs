@@ -7,7 +7,6 @@ namespace ch06_PeopleApp
 {
     class Program
     {
-
         static void Main(string[] args)
         {
             var p1 = new Person();
@@ -25,7 +24,6 @@ namespace ch06_PeopleApp
             // - OR - 
             var p2 = new Person { Name = "Alice Jones", DateOfBirth = new DateTime(1988, 4, 14) };
             WriteLine($"{p2.Name} was born on {p1.DateOfBirth:dddd, d MMMM yyyy}");
-            
         }
     }
 }

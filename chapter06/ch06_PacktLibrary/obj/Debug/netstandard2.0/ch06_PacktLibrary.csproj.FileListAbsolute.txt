@@ -1,7 +1,0 @@
-/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter06/ch06_PacktLibrary/bin/Debug/netstandard2.0/ch06_PacktLibrary.deps.json
-/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter06/ch06_PacktLibrary/bin/Debug/netstandard2.0/ch06_PacktLibrary.dll
-/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter06/ch06_PacktLibrary/bin/Debug/netstandard2.0/ch06_PacktLibrary.pdb
-/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter06/ch06_PacktLibrary/obj/Debug/netstandard2.0/ch06_PacktLibrary.csproj.CoreCompileInputs.cache
-/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter06/ch06_PacktLibrary/obj/Debug/netstandard2.0/ch06_PacktLibrary.AssemblyInfo.cs
-/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter06/ch06_PacktLibrary/obj/Debug/netstandard2.0/ch06_PacktLibrary.dll
-/home/ac/Documents/git-repos/cs-repo/cs7dotnetcore/chapter06/ch06_PacktLibrary/obj/Debug/netstandard2.0/ch06_PacktLibrary.pdb
