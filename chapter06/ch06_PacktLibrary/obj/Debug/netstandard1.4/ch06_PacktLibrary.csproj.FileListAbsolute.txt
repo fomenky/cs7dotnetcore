@@ -4,3 +4,9 @@
 /mnt/c/Users/AceGod/Documents/repos/cs7dotnetcore/chapter06/ch06_PacktLibrary/obj/Debug/netstandard1.4/ch06_PacktLibrary.AssemblyInfo.cs
 /mnt/c/Users/AceGod/Documents/repos/cs7dotnetcore/chapter06/ch06_PacktLibrary/obj/Debug/netstandard1.4/ch06_PacktLibrary.dll
 /mnt/c/Users/AceGod/Documents/repos/cs7dotnetcore/chapter06/ch06_PacktLibrary/obj/Debug/netstandard1.4/ch06_PacktLibrary.pdb
+c:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter06\ch06_PacktLibrary\bin\Debug\netstandard1.4\ch06_PacktLibrary.deps.json
+c:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter06\ch06_PacktLibrary\bin\Debug\netstandard1.4\ch06_PacktLibrary.dll
+c:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter06\ch06_PacktLibrary\bin\Debug\netstandard1.4\ch06_PacktLibrary.pdb
+c:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter06\ch06_PacktLibrary\obj\Debug\netstandard1.4\ch06_PacktLibrary.AssemblyInfo.cs
+c:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter06\ch06_PacktLibrary\obj\Debug\netstandard1.4\ch06_PacktLibrary.dll
+c:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter06\ch06_PacktLibrary\obj\Debug\netstandard1.4\ch06_PacktLibrary.pdb

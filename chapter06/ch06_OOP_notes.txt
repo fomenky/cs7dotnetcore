@@ -21,32 +21,44 @@
 
 - Class Members: Include Fields, Methods or specialized versions of BOTH
     - Fields - Are used to store data  
-        Ex:  - Constants: The data in this field never changes
-             - Read-only fields: The data in this field cannot change after the class is instantiated
+        Ex:  - static: cannot be initialized. the field/method only has one copy of itself that is shared across all instances
+             - constants: The data in this field never changes
+             - read-only fields: The data in this field cannot change after the class is instantiated
              - Events: This refers to methods that you want to call automatically when something happens, such as clicking on a button
 
-    - Methods - Are used to execute statements.
-        Ex    - Constructors: These are the methods that execute when you use the new keyword to allocate memory and instantiate a class
+    - Methods - Are used to execute statements. 
+        Ex    - Constructors: special methods called when an instance of a class (object) is created. They execute when you use the 'new' keyword to allocate memory and instantiate a class
               - Properties: These are the methods that execute when you want to access data
               - Indexers: These are the methods that execute when you want to access data
               - Operators: These are the methods that execute when you want to apply an operator
 
-    - static field/method - is a field/method that only has one copy of itself that is shared across all instances
-
-    - const - if the value of the field is expected to never change
-
-    - Constructors  - special methods called when an instance of a class (object) is created.
-                    - They execute before any fields are set
-
+// ----  definitions  ---- //
 - Enum: An enum is a very effiecient way of storing one or more choices because, internally, it uses int values in combination with a lookup table of string descriptions.
 
+- Tuples    - A tuple is a data structure that combines multiple value types and has a specific number and sequence of elements 
+            - to use turples reference them (vscode example):
+                <ItemGroup> 
+                    <PackageReference Include="System.ValueTuple" Version="4.3.0" /> 
+                </ItemGroup> 
+
+- Method Signature  - a method's signature is a list of parameter/argument types that can be passed when calling the method 
+                    - Use overloaded methods to simplify your class by making it appear to have fewer methods
+
+- Partial class - keyword used to split the definition of a complex class across multiple files
+
+- Properties    - A property is simply a method (or pair of Methods) that acts and look like a field 
+                - Simplifies syntax
 
 
+// For more SEE:
+Fields: https://docs.microsoft.com/en-us/dotnet/articles/csharp/programming-guide/classes-and-structs/fields
+Access modifiers: https://docs.microsoft.com/en-us/dotnet/articles/csharp/language-reference/keywords/access-modifiers
+Constructors: https://docs.microsoft.com/en-us/dotnet/articles/csharp/programming-guide/classes-and-structs/constructors
+Methods: https://docs.microsoft.com/en-us/dotnet/articles/csharp/methods
+Properties: https://docs.microsoft.com/en-us/dotnet/articles/csharp/properties
 
 
-
-
-
+// ----  vscode tricks  ---- //
 // Creating a .NET classlib //
 - Run:
 $ dotnet new classlib

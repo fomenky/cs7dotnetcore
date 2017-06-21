@@ -7,6 +7,6 @@
 
     <ItemGroup> 
       <ProjectReference Include="../ch06_PacktLibrary/ch06_PacktLibrary.csproj" /> 
-    </ItemGroup>
+    </ItemGroup> 
 
 </Project>
