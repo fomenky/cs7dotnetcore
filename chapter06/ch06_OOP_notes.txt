@@ -1,4 +1,4 @@
-- OOP -
+// ----  OOP  ---- //
 
 - Encapsulation: is the combination of the data and actions that are related to an object.
 
