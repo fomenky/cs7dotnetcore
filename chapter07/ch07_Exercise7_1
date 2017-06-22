@@ -1,0 +1,18 @@
+What is a delegate?
+- A delegate is the memory address of a method that matches the same signature as the delegate so that it can be safely called.
+
+What is an event?
+- Events are a way of exchanging messages between two objects
+
+How are a base class and a derived class related?
+- 
+
+What is the difference between is and as?
+- 
+
+Which keyword is used to prevent a class from being derived from or a method from being overridden?
+Which keyword is used to prevent a class from being instantiated with the new keyword?
+Which keyword is used to allow a member to be overridden?
+What's the difference between a destructor and a deconstructor?
+What are the signatures of the constructors that all exceptions should have?
+What is an extension method and how do you define one?

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.1": {
+      "ch07_peopleapp/1.0.0": {
+        "dependencies": {
+          "ch07_PacketLibrary": "1.0.0"
+        },
+        "runtime": {
+          "ch07_PeopleApp.dll": {}
+        }
+      },
+      "ch07_packetlibrary/1.0.0": {
+        "runtime": {
+          "ch07_PacketLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ch07_peopleapp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ch07_packetlibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,183 @@
+// ----  Implementing Interfaces and Inheriting Classess  ---- //
+
+- Local functions: methods that are only visible and callable within the containing method
+
+- Methods: Actions that an object can do. Ex: a List class can add an item to itself or clear itself.
+
+- Events:   - Actions that happen to an object. Ex: in a user interface, Button has a Click event, "click" being something that happens to a button.
+            - Events are a way of exchanging messages between two objects
+    
+- Delegates:- Used as another means to EXECUTE a method. First means is using   the dot (.) syntax.   
+            - A delegate is the memory address of a method that matches the same signature as the delegate so that it can be safely called.
+            - Names of parameters do not have to match. Only the types of parameters and return values must match
+            - Ex:
+            // method
+            public int MethodIWantToCall(string input) 
+            { 
+                return input.Length; // it doesn't matter what this does 
+            }
+            // delegate
+            delegate int DelegateWithMatchingSignature(string s); 
+
+Uses of Delegates:  - create a queue of methods that need to be called in order
+                    - they have built-in support for asynchronous operations that run on a different thread for better performance
+                    - delegates allow us to CREATE events
+
+Defining Events - Microsoft Predefined Events:
+                    - public delegate void EventHandler(object sender, EventArgs e); 
+                    - public delegate void EventHandler<TEventArgs>(object sender, TEventArgs e);
+
+Interfaces  - Interfaces are a way of connecting different types together to make new things
+
+Common Interfaces:
+    - IComparable: CompareTo(other) - This defines a comparison method that a type implements to order or sort its instances.
+
+    - IComparer: Compare(first, second) - This defines a comparison method that a secondary type implements to order or sort instances of a primary type.
+
+    - IDisposable: Dispose() - This defines a disposal method to release unmanaged resources more efficiently than waiting for a finalizer.
+
+    - IFormattable: ToString(format, culture) - This defines a culture-aware method to format the value of an object into a string representation.
+
+    - IFormatter: Serialize(stream, object), Deserialize(stream) - This defines methods to convert an object to and from a stream of bytes for storage or transfer.
+
+Most Common Interface -- IComparable --
+
+Memory Allocation Types:
+    - Stack Memory Allocation:  - stack memory is fast but limited 
+                                - This means that the memory for the object itself is allocated on the stack.
+
+    - Heap Memory Allocation:   - heap memory is slow but plentiful
+                                - This means that only the memory address of the object (and a little overhead) is stored on the stack.
+
+Memory Types:
+    - Reference Types:
+    - Value Types: 
+
+    - When you create a class, you create a reference type -- heap memory allocation
+    - When you create a struct, you create a value type -- stack memory allocation
+
+    PS: You cannot inherit from a struct!
+
+Releasing Unmanaged Resources:
+    - unmanaged resource must be manually released because .NET cannot do it for us
+    - We use the finalizer/destructor syntax (~) + the name of the type to be destroyed
+    - Ex:
+        public class Animal 
+        { 
+            public Animal() 
+            { 
+                // allocate an unmanaged resource 
+            } 
+            ~Animal() // Finalizer aka destructor 
+            { 
+                // deallocate the unmanaged resource 
+            } 
+        } 
+    - NB: A finalizer aka destructor is NOT a deconstructor!
+    - NB: A destructor releases resources, that is, it destroys an object. A deconstructor returns an object split up into its constituent parts and uses the new C# 7 deconstruction syntax.
+
+    - Ex: Standard Method of Releasing Resources -- IDisposable --
+    public class Animal : IDisposable
+    {
+        public Animal() 
+        { 
+            // allocate unmanaged resource 
+        }  
+        ~Animal() // Finalizer 
+        { 
+            if (disposed) return; 
+            Dispose(false); 
+        } 
+ 
+        bool disposed = false; // have resources been released? 
+    
+        public void Dispose() 
+        { 
+            Dispose(true); 
+            GC.SuppressFinalize(this); 
+        } 
+        
+        protected virtual void Dispose(bool disposing) 
+        { 
+            if (disposed) return; 
+            // deallocate the *unmanaged* resource 
+            // ... 
+            if (disposing) 
+            { 
+                // deallocate any other *managed* resources 
+                // ... 
+            } 
+            disposed = true; 
+        } 
+    }
+    - Ensure Dispose is called by using a 'using' statement
+    - Ex: 
+        using(Animal a = new Animal()) 
+        { 
+            // code that uses the Animal instance 
+        } 
+
+Preventing Inheritance & Overriding:
+    - You can prevent someone from inheriting from your class by applying the sealed keyword to its definition
+    - Ex: 
+        // Sealing Classes
+        public sealed class ScroogeMcDuck 
+        { 
+        } 
+        // Sealing Methods
+        public class LadyGaga 
+        { 
+            public sealed void Sing() 
+            { 
+            } 
+        }
+
+
+Polymorphism:
+    - Base classes may define and implement virtual methods, and derived classes can override them, which means they provide their own definition and implementation
+
+Casting: 
+    - Ex: 
+    Employee aliceInEmployee = new Employee{
+        Name = "Alice", 
+        EmployeeCode = "AA123"
+    };
+    Person aliceInPerson = aliceInEmployee; // This is implicit casting
+    Employee e2 = (Employee)aliceInPerson; // This is explicit casting
+
+    - Handling casting exceptions -- using 'is' keyword 
+        if (aliceInPerson is Employee) 
+        { 
+            WriteLine($"{nameof(aliceInPerson)} IS an Employee"); 
+            Employee e2 = (Employee)aliceInPerson; 
+            // do something with e2 
+        }
+        // PS: We could've also used a try/catch block as well
+
+    - Explicit Casting Using the 'as' keyword
+
+        Employee e3 = aliceInPerson as Employee; 
+
+        if (e3 != null) 
+        { 
+            WriteLine($"{nameof(aliceInPerson)} AS an Employee"); 
+            // do something with e3 
+        }
+    NB: Use the 'is' and 'as' keywords to avoid throwing exceptions when casting between derived types.
+
+Explore:
+Operator (C# reference): https://docs.microsoft.com/en-us/dotnet/articles/csharp/language-reference/keywords/operator
+
+Delegates: https://docs.microsoft.com/en-us/dotnet/articles/csharp/tour-of-csharp/delegates
+
+Events (C# programming guide): https://docs.microsoft.com/en-us/dotnet/articles/csharp/language-reference/keywords/event
+
+Interfaces: https://docs.microsoft.com/en-us/dotnet/articles/csharp/tour-of-csharp/interfaces
+
+Reference Types (C# Reference): https://docs.microsoft.com/en-us/dotnet/articles/csharp/language-reference/keywords/reference-types
+
+Value Types (C# Reference): https://docs.microsoft.com/en-us/dotnet/articles/csharp/language-reference/keywords/value-types
+
+Inheritance (C# Programming Guide): https://docs.microsoft.com/en-us/dotnet/articles/csharp/programming-guide/classes-and-structs/inheritance
+
+Destructors (C# Programming Guide): https://docs.microsoft.com/en-us/dotnet/articles/csharp/programming-guide/classes-and-structs/destructors

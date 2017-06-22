@@ -1,0 +1,12 @@
+/mnt/c/Users/AceGod/Documents/repos/cs7dotnetcore/chapter07/ch07_PacketLibrary/bin/Debug/netstandard1.4/ch07_PacketLibrary.deps.json
+/mnt/c/Users/AceGod/Documents/repos/cs7dotnetcore/chapter07/ch07_PacketLibrary/bin/Debug/netstandard1.4/ch07_PacketLibrary.dll
+/mnt/c/Users/AceGod/Documents/repos/cs7dotnetcore/chapter07/ch07_PacketLibrary/bin/Debug/netstandard1.4/ch07_PacketLibrary.pdb
+/mnt/c/Users/AceGod/Documents/repos/cs7dotnetcore/chapter07/ch07_PacketLibrary/obj/Debug/netstandard1.4/ch07_PacketLibrary.AssemblyInfo.cs
+/mnt/c/Users/AceGod/Documents/repos/cs7dotnetcore/chapter07/ch07_PacketLibrary/obj/Debug/netstandard1.4/ch07_PacketLibrary.dll
+/mnt/c/Users/AceGod/Documents/repos/cs7dotnetcore/chapter07/ch07_PacketLibrary/obj/Debug/netstandard1.4/ch07_PacketLibrary.pdb
+c:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter07\ch07_PacktLibrary\bin\Debug\netstandard1.4\ch07_PacketLibrary.deps.json
+c:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter07\ch07_PacktLibrary\bin\Debug\netstandard1.4\ch07_PacketLibrary.dll
+c:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter07\ch07_PacktLibrary\bin\Debug\netstandard1.4\ch07_PacketLibrary.pdb
+c:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter07\ch07_PacktLibrary\obj\Debug\netstandard1.4\ch07_PacketLibrary.AssemblyInfo.cs
+c:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter07\ch07_PacktLibrary\obj\Debug\netstandard1.4\ch07_PacketLibrary.dll
+c:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter07\ch07_PacktLibrary\obj\Debug\netstandard1.4\ch07_PacketLibrary.pdb

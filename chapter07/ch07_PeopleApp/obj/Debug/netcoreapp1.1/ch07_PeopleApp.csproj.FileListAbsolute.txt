@@ -1,0 +1,10 @@
+c:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter07\ch07_PeopleApp\bin\Debug\netcoreapp1.1\ch07_PeopleApp.deps.json
+c:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter07\ch07_PeopleApp\bin\Debug\netcoreapp1.1\ch07_PeopleApp.runtimeconfig.json
+c:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter07\ch07_PeopleApp\bin\Debug\netcoreapp1.1\ch07_PeopleApp.runtimeconfig.dev.json
+c:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter07\ch07_PeopleApp\obj\Debug\netcoreapp1.1\ch07_PeopleApp.AssemblyInfo.cs
+c:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter07\ch07_PeopleApp\bin\Debug\netcoreapp1.1\ch07_PeopleApp.dll
+c:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter07\ch07_PeopleApp\bin\Debug\netcoreapp1.1\ch07_PeopleApp.pdb
+c:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter07\ch07_PeopleApp\obj\Debug\netcoreapp1.1\ch07_PeopleApp.dll
+c:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter07\ch07_PeopleApp\obj\Debug\netcoreapp1.1\ch07_PeopleApp.pdb
+c:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter07\ch07_PeopleApp\bin\Debug\netcoreapp1.1\ch07_PacketLibrary.dll
+c:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter07\ch07_PeopleApp\bin\Debug\netcoreapp1.1\ch07_PacketLibrary.pdb
