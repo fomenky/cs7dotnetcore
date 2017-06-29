@@ -1,0 +1,8 @@
+c:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter08\ch08_EFCore\bin\Debug\netcoreapp1.1\ch08_EFCore.deps.json
+c:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter08\ch08_EFCore\bin\Debug\netcoreapp1.1\ch08_EFCore.runtimeconfig.json
+c:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter08\ch08_EFCore\bin\Debug\netcoreapp1.1\ch08_EFCore.runtimeconfig.dev.json
+c:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter08\ch08_EFCore\bin\Debug\netcoreapp1.1\ch08_EFCore.dll
+c:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter08\ch08_EFCore\bin\Debug\netcoreapp1.1\ch08_EFCore.pdb
+c:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter08\ch08_EFCore\obj\Debug\netcoreapp1.1\ch08_EFCore.AssemblyInfo.cs
+c:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter08\ch08_EFCore\obj\Debug\netcoreapp1.1\ch08_EFCore.dll
+c:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter08\ch08_EFCore\obj\Debug\netcoreapp1.1\ch08_EFCore.pdb

@@ -1,0 +1,42 @@
+Choosing a .NET data provider:
+    - To manage data, we need classes that know how to efficiently "talk" to the database.
+    - .NET data providers are sets of classes that are optimized for a specific RDBMS. They are distributed as NuGet packages.
+
+    - Ex:
+        - To manage this RDBMS:                         - NuGet package:
+        ~ Microsoft SQL Server 2008 or later            ~ Microsoft.EntityFrameworkCore.SqlServer
+        ~ SQLite 3.7 or later                           ~ Microsoft.EntityFrameworkCore.SQLite
+        ~ MySQL                                         ~ MySQL.Data.EntityFrameworkCore
+        ~ In-memory (for unit testing)                  ~ Microsoft.EntityFrameworkCore.InMemory
+
+
+Pros & Cons of EFCore: 
+    - Pros
+        EF Core is available for the .NET Core as well as the .NET Framework, which means it can be used cross-platform on Linux and macOS as well as Windows.
+        EF Core supports modern cloud-based, non-relational, schema-less data stores, such as Microsoft Azure Table Storage and Redis.
+    - Cons
+        EF Core will never support the EDMX design-time XML file format.
+        EF Core does not (yet) support lazy loading or complex inheritance models and other advanced features of EF6.
+
+EF Core annotation attributes: 
+    - Ex: 
+        [Required] 
+        [StringLength(40)] 
+        public string ProductName { get; set; } 
+    - This example shows the maximum length of a product name is 40, and the value cannot be null (empty).
+    - SEE: 
+
+EF Core Fluent API:
+    - Ex:
+        modelBuilder.Entity<Product>() 
+            .Property(product => product.ProductName) 
+            .IsRequired() 
+            .HasMaxLength(40);
+
+Querying an EF Core model:
+    - See code
+
+Transactions:   - They maintain the integrity of your database by applying locks to prevent reads and writes while a sequence of operations is occurring
+                - They are ACID
+
+EFCore: https://docs.microsoft.com/en-us/ef/core/index
