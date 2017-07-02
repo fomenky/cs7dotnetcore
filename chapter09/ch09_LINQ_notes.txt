@@ -1,0 +1,49 @@
+Writing LINQ queries:
+    - LINQ has several parts:
+        - Extension methods (required): These include examples like Where, OrderBy, Select, and so on.
+                                        These are what provide the functionality of	LINQ.
+        - Lamda Providers (required): These include LINQ to Objects, LINQ to Entities, LINQ to XML etc
+        - Lamda Expressions (optional): These is used instead of named methods to simplify LINQ extension method calls
+        - LINQ Query Comprehension Syntax (optional): These include from, in, where, orderby, select etc 
+
+    EXAMPLE 1: Ex of an Extension method w/ Lamda Expressions
+        var names = new string[] { "Michael", "Pam", "Jim","Dwight", "Angela", "Kevin", "Toby", "Creed" }; 
+ 
+        var query = names                               
+        .Where(name => name.Length > 4) 
+        .OrderBy(name => name.Length) 
+        .ThenBy(name => name);
+    
+    EXAMPLE 2: Ex of a LINQ Comprehension Syntax
+
+        var query = from name in names 
+            where name.Length > 4 
+            orderby name.Length, name 
+            select name; 
+
+--OR-- 
+    Ex: Extension method w/ Lamda Expression
+        var query = names 
+        .Where(name => name.Length > 4) 
+        .OrderBy(name => name.Length) 
+        .ThenBy(name => name) 
+        .Skip(80) 
+        .Take(10); 
+
+    Ex: LINQ Comprehension Syntax
+        var query = (from name in names 
+            where name.Length > 4 
+            orderby name.Length, name 
+            select name) 
+            .Skip(80) 
+            .Take(10); 
+
+
+Filtering Entities with Where:
+    - Ex: 
+        var names = new string[]{"Michael", "Pam", "Jim"}
+        var query = names.Where{}
+
+Sets
+    - A set is a collection of one or more objects
+    

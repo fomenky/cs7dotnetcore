@@ -1,0 +1,8 @@
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter09\ch09_Projection\bin\Debug\netcoreapp1.1\ch09_Projection.deps.json
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter09\ch09_Projection\bin\Debug\netcoreapp1.1\ch09_Projection.runtimeconfig.json
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter09\ch09_Projection\bin\Debug\netcoreapp1.1\ch09_Projection.runtimeconfig.dev.json
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter09\ch09_Projection\bin\Debug\netcoreapp1.1\ch09_Projection.dll
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter09\ch09_Projection\bin\Debug\netcoreapp1.1\ch09_Projection.pdb
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter09\ch09_Projection\obj\Debug\netcoreapp1.1\ch09_Projection.AssemblyInfo.cs
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter09\ch09_Projection\obj\Debug\netcoreapp1.1\ch09_Projection.dll
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter09\ch09_Projection\obj\Debug\netcoreapp1.1\ch09_Projection.pdb
