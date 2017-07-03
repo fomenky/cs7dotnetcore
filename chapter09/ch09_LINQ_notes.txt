@@ -26,7 +26,7 @@ Writing LINQ queries:
         var query = names 
         .Where(name => name.Length > 4) 
         .OrderBy(name => name.Length) 
-        .ThenBy(name => name) 
+        .ThenBy(name => name)
         .Skip(80) 
         .Take(10); 
 
