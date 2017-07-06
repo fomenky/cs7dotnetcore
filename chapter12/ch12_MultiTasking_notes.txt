@@ -1,0 +1,8 @@
+Process - A process is any application that has resources allocated to it such as memory and threads 
+Thread: - A thread executes code statement by statement
+        - By default, every process has only one thread
+
+Waiting fo Tasks:
+    Ex:
+    Task[] tasks = { taskA, taskB, taskC }; 
+    Task.WaitAll(tasks);
