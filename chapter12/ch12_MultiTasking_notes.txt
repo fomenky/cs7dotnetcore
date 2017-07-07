@@ -6,3 +6,11 @@ Waiting fo Tasks:
     Ex:
     Task[] tasks = { taskA, taskB, taskC }; 
     Task.WaitAll(tasks);
+
+SEE: 
+Threads and threading: https://msdn.microsoft.com/en-us/library/6kac2kdh(v=vs.110).aspx
+Task parallelism (task parallel library): https://msdn.microsoft.com/en-us/library/dd537609(v=vs.110).aspx
+await (C# reference): https://msdn.microsoft.com/en-GB/library/hh156528.aspx
+Asynchronous Programming with Async and Await (C# and Visual Basic): https://msdn.microsoft.com/en-us/library/vstudio/hh191443.aspx
+Interlocked Operations: https://msdn.microsoft.com/en-us/library/sbhbke0y(v=vs.110).aspx
+EventWaitHandle, AutoResetEvent, CountdownEvent, ManualResetEvent: https://msdn.microsoft.com/en-us/library/ksb7zs2x(v=vs.110).aspx

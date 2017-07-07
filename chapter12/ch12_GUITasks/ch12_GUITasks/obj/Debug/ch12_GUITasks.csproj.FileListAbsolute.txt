@@ -1,0 +1,14 @@
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter12\ch12_GUITasks\ch12_GUITasks\bin\Debug\ch12_GUITasks.exe.config
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter12\ch12_GUITasks\ch12_GUITasks\bin\Debug\ch12_GUITasks.exe
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter12\ch12_GUITasks\ch12_GUITasks\bin\Debug\ch12_GUITasks.pdb
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter12\ch12_GUITasks\ch12_GUITasks\obj\Debug\ch12_GUITasks.csprojResolveAssemblyReference.cache
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter12\ch12_GUITasks\ch12_GUITasks\obj\Debug\MainWindow.g.cs
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter12\ch12_GUITasks\ch12_GUITasks\obj\Debug\App.g.cs
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter12\ch12_GUITasks\ch12_GUITasks\obj\Debug\ch12_GUITasks_MarkupCompile.cache
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter12\ch12_GUITasks\ch12_GUITasks\obj\Debug\ch12_GUITasks_MarkupCompile.lref
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter12\ch12_GUITasks\ch12_GUITasks\obj\Debug\MainWindow.baml
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter12\ch12_GUITasks\ch12_GUITasks\obj\Debug\ch12_GUITasks.g.resources
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter12\ch12_GUITasks\ch12_GUITasks\obj\Debug\ch12_GUITasks.Properties.Resources.resources
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter12\ch12_GUITasks\ch12_GUITasks\obj\Debug\ch12_GUITasks.csproj.GenerateResource.Cache
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter12\ch12_GUITasks\ch12_GUITasks\obj\Debug\ch12_GUITasks.exe
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter12\ch12_GUITasks\ch12_GUITasks\obj\Debug\ch12_GUITasks.pdb
