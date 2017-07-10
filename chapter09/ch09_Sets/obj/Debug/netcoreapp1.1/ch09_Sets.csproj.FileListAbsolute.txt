@@ -1,0 +1,8 @@
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter09\ch09_Sets\bin\Debug\netcoreapp1.1\ch09_Sets.deps.json
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter09\ch09_Sets\bin\Debug\netcoreapp1.1\ch09_Sets.runtimeconfig.json
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter09\ch09_Sets\bin\Debug\netcoreapp1.1\ch09_Sets.runtimeconfig.dev.json
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter09\ch09_Sets\obj\Debug\netcoreapp1.1\ch09_Sets.AssemblyInfo.cs
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter09\ch09_Sets\bin\Debug\netcoreapp1.1\ch09_Sets.dll
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter09\ch09_Sets\bin\Debug\netcoreapp1.1\ch09_Sets.pdb
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter09\ch09_Sets\obj\Debug\netcoreapp1.1\ch09_Sets.dll
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter09\ch09_Sets\obj\Debug\netcoreapp1.1\ch09_Sets.pdb

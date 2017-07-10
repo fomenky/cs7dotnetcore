@@ -1,0 +1,8 @@
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter10\ch10_Enconding\bin\Debug\netcoreapp1.1\ch10_Enconding.deps.json
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter10\ch10_Enconding\bin\Debug\netcoreapp1.1\ch10_Enconding.runtimeconfig.json
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter10\ch10_Enconding\bin\Debug\netcoreapp1.1\ch10_Enconding.runtimeconfig.dev.json
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter10\ch10_Enconding\obj\Debug\netcoreapp1.1\ch10_Enconding.AssemblyInfo.cs
+c:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter10\ch10_Enconding\bin\Debug\netcoreapp1.1\ch10_Enconding.dll
+c:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter10\ch10_Enconding\bin\Debug\netcoreapp1.1\ch10_Enconding.pdb
+c:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter10\ch10_Enconding\obj\Debug\netcoreapp1.1\ch10_Enconding.dll
+c:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter10\ch10_Enconding\obj\Debug\netcoreapp1.1\ch10_Enconding.pdb

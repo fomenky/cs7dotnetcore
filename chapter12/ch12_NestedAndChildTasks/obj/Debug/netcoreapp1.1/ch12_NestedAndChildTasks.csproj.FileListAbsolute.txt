@@ -1,0 +1,8 @@
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter12\ch12_NestedAndChildTasks\bin\Debug\netcoreapp1.1\ch12_NestedAndChildTasks.deps.json
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter12\ch12_NestedAndChildTasks\bin\Debug\netcoreapp1.1\ch12_NestedAndChildTasks.runtimeconfig.json
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter12\ch12_NestedAndChildTasks\bin\Debug\netcoreapp1.1\ch12_NestedAndChildTasks.runtimeconfig.dev.json
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter12\ch12_NestedAndChildTasks\bin\Debug\netcoreapp1.1\ch12_NestedAndChildTasks.dll
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter12\ch12_NestedAndChildTasks\bin\Debug\netcoreapp1.1\ch12_NestedAndChildTasks.pdb
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter12\ch12_NestedAndChildTasks\obj\Debug\netcoreapp1.1\ch12_NestedAndChildTasks.AssemblyInfo.cs
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter12\ch12_NestedAndChildTasks\obj\Debug\netcoreapp1.1\ch12_NestedAndChildTasks.dll
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter12\ch12_NestedAndChildTasks\obj\Debug\netcoreapp1.1\ch12_NestedAndChildTasks.pdb

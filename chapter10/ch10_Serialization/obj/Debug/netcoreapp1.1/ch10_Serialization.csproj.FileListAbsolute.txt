@@ -1,0 +1,8 @@
+c:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter10\ch10_Serialization\bin\Debug\netcoreapp1.1\ch10_Serialization.deps.json
+c:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter10\ch10_Serialization\bin\Debug\netcoreapp1.1\ch10_Serialization.runtimeconfig.json
+c:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter10\ch10_Serialization\bin\Debug\netcoreapp1.1\ch10_Serialization.runtimeconfig.dev.json
+c:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter10\ch10_Serialization\bin\Debug\netcoreapp1.1\ch10_Serialization.dll
+c:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter10\ch10_Serialization\bin\Debug\netcoreapp1.1\ch10_Serialization.pdb
+c:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter10\ch10_Serialization\obj\Debug\netcoreapp1.1\ch10_Serialization.AssemblyInfo.cs
+c:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter10\ch10_Serialization\obj\Debug\netcoreapp1.1\ch10_Serialization.dll
+c:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter10\ch10_Serialization\obj\Debug\netcoreapp1.1\ch10_Serialization.pdb

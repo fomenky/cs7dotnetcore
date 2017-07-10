@@ -1,0 +1,1 @@
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter13\ch13_UWP\ch13_UWP\ch13_UWP.csproj;x86

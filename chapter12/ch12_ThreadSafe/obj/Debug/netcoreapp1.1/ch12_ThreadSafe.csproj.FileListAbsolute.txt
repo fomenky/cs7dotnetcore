@@ -1,0 +1,8 @@
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter12\ch12_ThreadSafe\bin\Debug\netcoreapp1.1\ch12_ThreadSafe.deps.json
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter12\ch12_ThreadSafe\bin\Debug\netcoreapp1.1\ch12_ThreadSafe.runtimeconfig.json
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter12\ch12_ThreadSafe\bin\Debug\netcoreapp1.1\ch12_ThreadSafe.runtimeconfig.dev.json
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter12\ch12_ThreadSafe\bin\Debug\netcoreapp1.1\ch12_ThreadSafe.dll
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter12\ch12_ThreadSafe\bin\Debug\netcoreapp1.1\ch12_ThreadSafe.pdb
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter12\ch12_ThreadSafe\obj\Debug\netcoreapp1.1\ch12_ThreadSafe.AssemblyInfo.cs
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter12\ch12_ThreadSafe\obj\Debug\netcoreapp1.1\ch12_ThreadSafe.dll
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter12\ch12_ThreadSafe\obj\Debug\netcoreapp1.1\ch12_ThreadSafe.pdb

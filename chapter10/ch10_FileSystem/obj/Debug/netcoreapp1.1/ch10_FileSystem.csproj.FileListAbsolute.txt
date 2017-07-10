@@ -1,0 +1,8 @@
+c:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter10\ch10_FileSystem\bin\Debug\netcoreapp1.1\ch10_FileSystem.deps.json
+c:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter10\ch10_FileSystem\bin\Debug\netcoreapp1.1\ch10_FileSystem.runtimeconfig.json
+c:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter10\ch10_FileSystem\bin\Debug\netcoreapp1.1\ch10_FileSystem.runtimeconfig.dev.json
+c:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter10\ch10_FileSystem\bin\Debug\netcoreapp1.1\ch10_FileSystem.dll
+c:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter10\ch10_FileSystem\bin\Debug\netcoreapp1.1\ch10_FileSystem.pdb
+c:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter10\ch10_FileSystem\obj\Debug\netcoreapp1.1\ch10_FileSystem.AssemblyInfo.cs
+c:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter10\ch10_FileSystem\obj\Debug\netcoreapp1.1\ch10_FileSystem.dll
+c:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter10\ch10_FileSystem\obj\Debug\netcoreapp1.1\ch10_FileSystem.pdb

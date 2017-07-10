@@ -1,0 +1,8 @@
+c:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter12\ch12_Tasks\bin\Debug\netcoreapp1.1\ch12_Tasks.deps.json
+c:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter12\ch12_Tasks\bin\Debug\netcoreapp1.1\ch12_Tasks.runtimeconfig.json
+c:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter12\ch12_Tasks\bin\Debug\netcoreapp1.1\ch12_Tasks.runtimeconfig.dev.json
+c:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter12\ch12_Tasks\bin\Debug\netcoreapp1.1\ch12_Tasks.dll
+c:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter12\ch12_Tasks\bin\Debug\netcoreapp1.1\ch12_Tasks.pdb
+c:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter12\ch12_Tasks\obj\Debug\netcoreapp1.1\ch12_Tasks.AssemblyInfo.cs
+c:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter12\ch12_Tasks\obj\Debug\netcoreapp1.1\ch12_Tasks.dll
+c:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter12\ch12_Tasks\obj\Debug\netcoreapp1.1\ch12_Tasks.pdb

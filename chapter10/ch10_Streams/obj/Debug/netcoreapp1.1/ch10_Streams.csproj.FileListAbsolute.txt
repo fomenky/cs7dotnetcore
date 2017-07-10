@@ -1,0 +1,8 @@
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter10\ch10_Streams\bin\Debug\netcoreapp1.1\ch10_Streams.deps.json
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter10\ch10_Streams\bin\Debug\netcoreapp1.1\ch10_Streams.runtimeconfig.json
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter10\ch10_Streams\bin\Debug\netcoreapp1.1\ch10_Streams.runtimeconfig.dev.json
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter10\ch10_Streams\bin\Debug\netcoreapp1.1\ch10_Streams.dll
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter10\ch10_Streams\bin\Debug\netcoreapp1.1\ch10_Streams.pdb
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter10\ch10_Streams\obj\Debug\netcoreapp1.1\ch10_Streams.AssemblyInfo.cs
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter10\ch10_Streams\obj\Debug\netcoreapp1.1\ch10_Streams.dll
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter10\ch10_Streams\obj\Debug\netcoreapp1.1\ch10_Streams.pdb

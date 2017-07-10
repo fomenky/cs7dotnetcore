@@ -1,0 +1,8 @@
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter09\ch09_LinqToObjects\bin\Debug\netcoreapp1.1\ch09_LinqToObjects.deps.json
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter09\ch09_LinqToObjects\bin\Debug\netcoreapp1.1\ch09_LinqToObjects.runtimeconfig.json
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter09\ch09_LinqToObjects\bin\Debug\netcoreapp1.1\ch09_LinqToObjects.runtimeconfig.dev.json
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter09\ch09_LinqToObjects\bin\Debug\netcoreapp1.1\ch09_LinqToObjects.dll
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter09\ch09_LinqToObjects\bin\Debug\netcoreapp1.1\ch09_LinqToObjects.pdb
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter09\ch09_LinqToObjects\obj\Debug\netcoreapp1.1\ch09_LinqToObjects.AssemblyInfo.cs
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter09\ch09_LinqToObjects\obj\Debug\netcoreapp1.1\ch09_LinqToObjects.dll
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter09\ch09_LinqToObjects\obj\Debug\netcoreapp1.1\ch09_LinqToObjects.pdb
