@@ -1,0 +1,22 @@
+Common Controls:
+
+    Control(s)                                      Description
+    Button, Menu, Toolbar                           Executing actions
+
+    CheckBox, RadioButton                           Choosing options
+
+    Calendar, DatePicker                            Choosing dates
+
+    ComboBox, ListBox, ListView, TreeView           Choosing items from lists and hierarchical trees
+
+    Canvas, DockPanel, Grid, StackPanel, WrapPanel  Layout containers that affect their children in different ways
+
+    Label, TextBlock                                Displaying read-only text
+
+    RichTextBox, TextBox                            Editing text
+
+    Image, MediaElement                             Embedding images, videos, and audio files
+
+    DataGrid                                        Viewing and editing bound data
+
+    Scrollbar, Slider, StatusBar                    Miscellaneous user interface elements

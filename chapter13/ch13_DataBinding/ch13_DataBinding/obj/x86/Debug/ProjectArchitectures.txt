@@ -1,0 +1,1 @@
+C:\Users\AceGod\Documents\repos\cs7dotnetcore\chapter13\ch13_DataBinding\ch13_DataBinding\ch13_DataBinding.csproj;x86
